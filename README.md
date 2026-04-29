@@ -57,20 +57,4 @@
 
 </div>
 
----
 
-<!-- STATS -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=snxz-dev&theme=radical&hide_border=false" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=snxz-dev&theme=radical&hide_border=false" />
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  ⚡ Building, learning, and optimizing every day
-</p>
